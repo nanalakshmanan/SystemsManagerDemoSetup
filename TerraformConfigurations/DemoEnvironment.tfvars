@@ -2,9 +2,9 @@ instance_profile = "NanaSSM"
 
 key_pair = "NanasTestKeyPair"
 
-instance_type = "t2.micro"
+instance_type = "t2.medium"
 
-windows_ami_id = "ami-838b53fc"
+windows_ami_id = "ami-cdbd65b2"
 
 vpc_id = "vpc-9920dce0"
 
